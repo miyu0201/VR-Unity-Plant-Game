@@ -4,3 +4,9 @@ A Plant Nursering Game for Android phones that functions similar to the popular 
 <img src="https://github.com/miyu0201/VR-Unity-Plant-Game/blob/main/GameStart.PNG" width="500"> 
 
 <img src="https://github.com/miyu0201/VR-Unity-Plant-Game/blob/main/My Plant Screen.PNG" width="500">
+
+<img src="https://github.com/miyu0201/VR-Unity-Plant-Game/blob/main/My Pouch Screen.PNG" width="500">
+
+<img src="https://github.com/miyu0201/VR-Unity-Plant-Game/blob/main/map enable AR view.PNG" width="500">
+
+
